@@ -994,6 +994,7 @@
             this.btn_Refresh.TabIndex = 53;
             this.btn_Refresh.Text = "Refresh ALL";
             this.btn_Refresh.UseVisualStyleBackColor = true;
+            this.btn_Refresh.Click += new System.EventHandler(this.btn_Refresh_Click);
             // 
             // lbl_LastUpdate
             // 
