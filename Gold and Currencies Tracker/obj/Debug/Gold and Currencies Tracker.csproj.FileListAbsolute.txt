@@ -1,0 +1,15 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\Gold and Currencies Tracker.exe.config
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\Gold and Currencies Tracker.exe
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\Gold and Currencies Tracker.pdb
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\MetroFramework.Design.dll
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\MetroFramework.dll
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\MetroFramework.Fonts.dll
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold and Currencies Tracker.csprojResolveAssemblyReference.cache
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold_and_Currencies_Tracker.Properties.Resources.resources
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold and Currencies Tracker.csproj.GenerateResource.Cache
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold and Currencies Tracker.exe
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold and Currencies Tracker.pdb
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\MaterialSkin.dll
+c:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\obj\Debug\Gold_and_Currencies_Tracker.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Gold and Currencies Tracker\Gold and Currencies Tracker\bin\Debug\Newtonsoft.Json.xml
